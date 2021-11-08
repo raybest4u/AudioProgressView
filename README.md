@@ -1,1 +1,3 @@
-![image](https://ooo.0o0.ooo/2017/06/11/593d32cbf3f37.png)  
+#This is a custom component for Android
+
+![image](https://github.com/raybest4u/AudioProgressView/blob/main/image/preview.png?raw=true)  
